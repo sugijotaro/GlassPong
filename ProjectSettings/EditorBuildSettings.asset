@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Main.unity
     guid: 6705f3c7b818942c1bcbda1e70d80168
+  - enabled: 1
+    path: Assets/gamekuria.unity
+    guid: db5734ef946ca4da78a176407f06f3d7
   m_configObjects: {}
