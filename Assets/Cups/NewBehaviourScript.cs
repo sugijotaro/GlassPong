@@ -19,7 +19,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         if(collision.gameObject.CompareTag("enemy"))
         {
-
+            SceneManager.LoadScene("gamekuria");
         }
     }
 }
